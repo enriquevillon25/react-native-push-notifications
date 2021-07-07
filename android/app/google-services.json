@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045587402484",
+    "project_id": "entry-egress-app",
+    "storage_bucket": "entry-egress-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045587402484:android:c612be17f12c37d6e448a1",
+        "android_client_info": {
+          "package_name": "com.pushnot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045587402484-naj5da3af384jtjnbhq58tgcvno3nttt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkjluE6oMaSomDjttJfqKHSt3hpWM0Zbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045587402484-naj5da3af384jtjnbhq58tgcvno3nttt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
